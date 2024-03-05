@@ -87,5 +87,17 @@ h4 {
 }
 
 .cars {
-  width: 65%
+  width: 70%
+}
+
+.title{
+  font-size: 14px;
+}
+
+.url{
+  font-size: 13px;
+}
+
+.infoDiv{
+  font-size: 10.667px;
 }
